@@ -1,0 +1,14 @@
+{
+  "name": "projeto1-curso-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "author": "Mateus Borges",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
